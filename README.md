@@ -29,8 +29,8 @@ Dependências:
 
 <br />
 
-### Exercise Tracker App home page:          
-![Exercise Tracker App home page](/public/images/)
+### Estado Inicial do Projeto Automated Testing App com Node-JS:           
+![Imagem com o Estado Inicial do Projeto Automated Testing App com Node-JS](/public/images/estado-inicial-do-projeto-automated-testing-app-com-nodejs.png)
 
 
 
