@@ -46,7 +46,7 @@ Dependências:
 <br />
 
 ### Progredindo com os testes: testando objetos e requisições HTTP com o Chai              
-![Imagem com a resolução de testes com objetos e requisições http]](/public/images/testes-objetos-e-integração-chai-http.png)
+![Imagem com a resolução de testes com objetos e requisições http](/public/images/testes-objetos-e-integração-chai-http.png)
 
 
 
