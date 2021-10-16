@@ -36,8 +36,9 @@ Dependências:
 
 <br />
 
-### Postando usuários e recebendo um id de referência para ele:          
-![Postando usuários e recebendo um id de referência para ele](/public/images/)
+### Progredindo com os testes: Basic Assertions, Equality, Comparisons, Array, Strings.              
+![Imagem com a resolução da primeira metade dos testes]
+(/public/images/testes-básico-string-array-projeto-testing-app-com-nodejs.png)
 
 
 
