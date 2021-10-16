@@ -52,8 +52,8 @@ Dependências:
 
 <br />
 
-### Fazendo requição GET na rota /api/users/:id/logs em busca da lista de exercícios cadastrados por um usuário:           
-![Postando exercícios com validação de referência do usuário com _id para e formatando a data](/public/images/)
+### Fazendo teste com Zombie: Headless Browsers.               
+![Imagem com a resolução de testes com Zombie](/public/images/testes-de-integração-headless-browser-com-Zombie.png)
 
 
 
@@ -85,8 +85,8 @@ Dependências:
 
 <br />
 
-### Resultado final do projeto em Freecodecamp.org:               
-![Resultado final do projeto em Freecodecamp.org](/public/images/)
+### Resultado final do curso em Freecodecamp.org:               
+![Resultado final do curso em Freecodecamp.org](/public/images/quality-assurance-and-testing-with-Chai.png)
 
 
 
