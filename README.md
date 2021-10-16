@@ -45,8 +45,8 @@ Dependências:
 
 <br />
 
-### Postando exercícios com validação de referência do usuário com _id para e formatando a data:          
-![Postando exercícios com validação de referência do usuário com _id para e formatando a data](/public/images/)
+### Progredindo com os testes: testando objetos e requisições HTTP com o Chai              
+![Imagem com a resolução de testes com objetos e requisições http]](/public/images/testes-objetos-e-integração-chai-http.png)
 
 
 
