@@ -61,26 +61,6 @@ Dependências:
 <br />
 
 
-### Exercise Tracker App rodando na plataforma Replit.com:          
-![Exercise Tracker App rodando na plataforma Replit.com](/public/images/)
-
-
-
-
-
-<br />
-
-### Inserindo o banco de dados MongoDB ao app:            
-![Inserindo o banco de dados MongoDB ao app](/public/images/)
-
-
-
-<br />
-
-### Filtrando os resultados de array de Exercícios a partir de parâmetros FROM e TO passados pela query:            
-![Filtrando os resultados de array de Exercícios a partir de parâmetros FROM e TO passados pela query](/public/images/)
-
-
 
 
 <br />
