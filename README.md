@@ -34,18 +34,12 @@ Dependências:
 
 
 
-<br />
-
-### Progredindo com os testes: Basic Assertions, Equality, Comparisons, Array, Strings.              
-![Imagem com a resolução da primeira metade dos testes]
-(/public/images/testes-básico-string-array-projeto-testing-app-com-nodejs.png)
-
 
 
 <br />
 
-### Fazendo uma requisição GET na rota /api/users para listar usuários:          
-![Fazendo uma requisição GET na rota /api/users para listar usuários](/public/images/)
+### Progredindo com os testes: Basic Assertions, Equality, Comparisons, Array, Strings:          
+![Imagem com a resolução da primeira metade dos testes](/public/images/testes-básico-string-array-projeto-testing-app-com-nodejs.png)
 
 
 
